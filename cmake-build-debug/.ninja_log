@@ -1,0 +1,8 @@
+# ninja log v5
+7	1180	7317977657309302	CMakeFiles/Exceptions.dir/main.cpp.obj	e6336a3544dcc9ca
+1181	1392	7317977659322853	Exceptions.exe	7c537c8a0e3bc1ee
+5	283	7317978728022224	build.ninja	86ea0556acbf2fff
+6	970	7317978755589687	CMakeFiles/Exceptions.dir/main.cpp.obj	e6336a3544dcc9ca
+971	1146	7317978757253769	Exceptions.exe	7c537c8a0e3bc1ee
+6	946	7317978916309059	CMakeFiles/Exceptions.dir/main.cpp.obj	e6336a3544dcc9ca
+946	1128	7317978918057586	Exceptions.exe	7c537c8a0e3bc1ee
